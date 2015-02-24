@@ -1,0 +1,6 @@
+
+Book Table:
+BookID, ISBN, Title, Edition, Author, Publisher
+
+User Table:
+UserID, FirstName, LastName, DateOfBirth, Address, Email, Telephone

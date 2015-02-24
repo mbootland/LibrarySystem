@@ -1,0 +1,5 @@
+SELECT * FROM Books
+WHERE field1 LIKE '?'
+   OR field2 LIKE '?'
+   OR field3 LIKE '?'
+   OR field4 LIKE '?';
